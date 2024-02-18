@@ -1,13 +1,56 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,400;0,600;0,700;1,200&display=swap');
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    transition: .2S ease-in-out;
+    font-family:'Titillium Web',sans-serif ;
+}
+:root{
+    --primaryColor:#c10e21;
+    --secondaryColor:#f3dfdf;
+    --textColor:#a3a3a3;
+    --greayColor:#f4f4f4;
+    --whiteColor:#f5f4fa;
+    --blackColor:#434344;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+li{
+    list-style: none;
+
+}
+a{
+    text-decoration: none;
+}
+
+img {
+  width: 100%;
+ 
+}
+
+/*** Footer Start ***/
+.footer .footer-item .btn-link {
+  line-height: 35px;
+  color:var(--textColor);
+  transition: 0.5s;
+  text-decoration: none;
+}
+.bag-primary{
+  background-color: var(--primaryColor);
+}
+.primary{
+color: var(--primaryColor);
+}
+
+.footer .footer-item .btn-link:hover {
+  color: var(--primaryColor) !important;
+}
+
+.footer .footer-item p.mb-4 {
+  line-height: 35px;
+}
+.profile{
+  width: 15%;
 }
