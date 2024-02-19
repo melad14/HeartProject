@@ -137,7 +137,7 @@ export default function Navbar() {
         <div className="signUp flex">
           {!userData && (
             <>
-              <Link to='register' className="text">SIGN UP</Link>
+              <Link to='regester' className="text">SIGN UP</Link>
               <Link to='login' className="mx-3 text">SIGN IN</Link>
             </>
           )}
