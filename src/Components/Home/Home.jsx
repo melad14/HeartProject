@@ -34,7 +34,7 @@ export default function Home() {
           </div>
           <div className="btns flex">
             <button data-aos='fade-right' className="btn">More Details</button>
-            <button data-aos='fade-left' className="btn ">Test Driver </button>
+            <button data-aos='fade-left' className="btn ">Medical Data </button>
           </div>
         </div>
       </div>

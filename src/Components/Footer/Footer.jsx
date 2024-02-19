@@ -42,10 +42,10 @@ export default function Footer() {
                     <div className="col-lg-3 col-md-6">
                         <div className="d-flex flex-column text-start footer-item">
                             <h4 className="text-light mb-3"> Info</h4>
-                            <Link className="btn-link" to='about'>ABOUT</Link>
-                            <Link className="btn-link" to='product'>CPR</Link>
-                            <Link className="btn-link" to='contact'>PROFILE</Link>
-                            <Link className="btn-link" to='quality'>DONATE</Link>
+                            <Link className="btn-link" to='/about'>ABOUT</Link>
+                            <Link className="btn-link" to='/medicaldata'>MEDICAL DATA</Link>
+                            <Link className="btn-link" to='/account'>PROFILE</Link>
+                            <Link className="btn-link" to='/patientdiagnosis'>Patient Diagnosis</Link>
 
                         </div>
                     </div>
