@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/HeartProject/static/css/main.7fa1185e.css",
-    "main.js": "/HeartProject/static/js/main.4861c72e.js",
+    "main.js": "/HeartProject/static/js/main.3fb19e9a.js",
     "static/js/453.192b04f3.chunk.js": "/HeartProject/static/js/453.192b04f3.chunk.js",
     "static/media/female-doctor-with-patient-who-is-complaining-chest-pain-during-coronavirus-epidemic.jpg": "/HeartProject/static/media/female-doctor-with-patient-who-is-complaining-chest-pain-during-coronavirus-epidemic.6a5aeb87cab85c745a62.jpg",
     "static/media/human-heart-design.jpg": "/HeartProject/static/media/human-heart-design.8ff7d2fea17f189bcc7d.jpg",
@@ -18,11 +18,11 @@
     "static/media/fa-v4compatibility.woff2": "/HeartProject/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "index.html": "/HeartProject/index.html",
     "main.7fa1185e.css.map": "/HeartProject/static/css/main.7fa1185e.css.map",
-    "main.4861c72e.js.map": "/HeartProject/static/js/main.4861c72e.js.map",
+    "main.3fb19e9a.js.map": "/HeartProject/static/js/main.3fb19e9a.js.map",
     "453.192b04f3.chunk.js.map": "/HeartProject/static/js/453.192b04f3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7fa1185e.css",
-    "static/js/main.4861c72e.js"
+    "static/js/main.3fb19e9a.js"
   ]
 }
